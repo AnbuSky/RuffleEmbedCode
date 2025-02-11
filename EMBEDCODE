@@ -20,7 +20,7 @@ const ruffle = window.RufflePlayer.newest();
 const player = ruffle.createPlayer();
 const container = document.getElementById("container");
 container.appendChild(player);
-player.load("your-file-name.swf");
+player.load("https://ia800801.us.archive.org/23/items/armorgames/clicker-heroes-160839790.swf");
 player.style.width = "100%";
 player.style.height = "100%";
 });
